@@ -1,0 +1,9 @@
+﻿  FIB.cpp
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(33,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(101,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(102,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(106,21): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(112,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1234_\source\repos\ASD 5\ASD 5\FIB.cpp(116,21): warning C4018: <=: несоответствие типов со знаком и без знака
+  ASD 5.vcxproj -> C:\Users\1234_\source\repos\ASD 5\Debug\ASD 5.exe
