@@ -55,8 +55,8 @@ public:
     }
     ~Heap() {
     };
-    void printA() {
-        int m = Pow(d, size);
+    void out() {
+        int m = GLUBINA(d, size);
         int j = 1;
         if (d == 3) {
             for (int i = 0; i <= m; i++)
@@ -91,7 +91,7 @@ public:
             cout << endl;
         }
     }
-    int Pow(int d, int m) {
+    int GLUBINA(int d, int m) {
         int l = 0;
         for (int i = 0; i < m; i++) {
             if (pow(d, i) <= m)
@@ -127,10 +127,10 @@ int main() {
 
         Heap heap (m,3,size);
 
-        heap.printA();
+        heap.out();
         heap.delete_min();
         cout << endl;
-        heap.printA();
+        heap.out();
 
         cout << endl;
         cout << "Введите элемент, который хотите вставить:" << endl;
@@ -141,6 +141,6 @@ int main() {
         heap.insert(k);
 
         cout << endl;
-        heap.printA();
+        heap.out();
         return 0;
 }

@@ -148,10 +148,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ASD 9.cpp" />
-    <ClCompile Include="Heap.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="heap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
