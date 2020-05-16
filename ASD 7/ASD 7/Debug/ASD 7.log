@@ -1,0 +1,8 @@
+﻿  ASD 7.cpp
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(30,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(39,27): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(41,23): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(42,21): warning C4244: инициализация: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(173,16): warning C4244: return: преобразование "hashTableIndex" в "int", возможна потеря данных
+C:\Users\1234_\source\repos\ASD 7\ASD 7\ASD 7.cpp(187): warning C4715: findData: значение возвращается не при всех путях выполнения
+  ASD 7.vcxproj -> C:\Users\1234_\source\repos\ASD 7\Debug\ASD 7.exe
